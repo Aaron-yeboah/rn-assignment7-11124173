@@ -1,3 +1,4 @@
+STUDENT ID: 11124173
 # DCIT202 Mobile Application Development Assignment 7
 
 ## Project Overview
@@ -28,7 +29,8 @@ This project expands on the previous assignment, incorporating additional featur
 
 ### Drawer
 
-![Drawer](./assets/screenshots/Screenshot_2024-07-10_14-03-36.jpg)
+![WhatsApp Image 2024-07-12 at 17 38 23_67a0030d](https://github.com/user-attachments/assets/82056073-d97c-4685-a54f-da23e87e3d56)
+
 
 ### Cart Screen
 
